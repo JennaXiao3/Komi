@@ -1,1 +1,3 @@
-# Komi
+# Komi - A COVID Mobile Application
+
+Komi essentially acts as a smart search engine that displays the busyness of stores nearby using data collected from Google Maps's Popularity Times feature and a location API to get the user's location. Its purpose is to warn customers of the number of people at certain grocery stores, as grocery shopping is an activity that we cannot avoid despite the pandemic. Komi retrieves all of the supermarkets and grocery stores within a specified radius of the user and lists them by how busy they are in three levels. Users can "star" their favourite stores and filter their searches by distance from their location and starred stores. Komi was built with React Native (JavaScript and JSX) and designed with Figma, Adobe Illustrator, and Canva.
